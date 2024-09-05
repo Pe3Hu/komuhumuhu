@@ -1,0 +1,30 @@
+res://entities/world/world.tscn
+res://shaders/gradient effects.gdshader
+res://shaders/sphere.gdshader
+res://shaders/triple sdiw.gdshader
+res://entities/member/member.tscn
+res://entities/dungeon/dungeon.tscn
+res://script/Global.gd
+res://entities/planet/planet.tscn
+res://entities/map/dukedom_resource.gd
+res://entities/map/earldom_resource.gd
+res://entities/map/kingdom_resource.gd
+res://entities/planet/planet.gd
+res://entities/planet/planet_resource.gd
+res://entities/fiefdom/dukedom.gd
+res://entities/fiefdom/dukedom.tscn
+res://entities/fiefdom/dukedom_resource.gd
+res://entities/fiefdom/earldom_resource.gd
+res://entities/fiefdom/fiefdom.json
+res://entities/totem/building.tscn
+res://entities/totem/totem.tscn
+res://entities/totem/building.gd
+res://entities/building/building.tscn
+res://entities/dukedom/dukedom.tscn
+res://entities/kingdom/kingdom.json
+res://entities/kingdom/kingdom_resource.gd
+res://entities/dukedom/dukedom_resource.gd
+res://entities/world/world.gd
+res://entities/building/building.gd
+res://entities/dukedom/dukedom.gd
+res://entities/dukedom/dukedom.json

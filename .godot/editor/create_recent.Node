@@ -1,0 +1,15 @@
+Sprite2D
+Area2D
+CollisionPolygon2D
+Node2D
+Line2D
+TileMapLayer
+Control
+TextureRect
+PanelContainer
+MeshInstance2D
+MeshInstance3D
+HBoxContainer
+GridContainer
+VBoxContainer
+Polygon2D

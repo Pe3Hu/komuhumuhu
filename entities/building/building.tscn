@@ -1,0 +1,52 @@
+[gd_scene load_steps=6 format=3 uid="uid://bv2iyxfvuuk8w"]
+
+[ext_resource type="Shader" path="res://shaders/gradient effects.gdshader" id="1_4jqa3"]
+[ext_resource type="Texture2D" uid="uid://tw8oltxvsfd" path="res://entities/building/building.png" id="1_6d11a"]
+[ext_resource type="Script" path="res://entities/building/building.gd" id="2_3lfui"]
+[ext_resource type="FontFile" uid="uid://33eqagvh85us" path="res://assets/fonts/digital/Inter-Black.ttf" id="2_ji8lo"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_3rj4w"]
+shader = ExtResource("1_4jqa3")
+shader_parameter/effect_filling = 1.0
+shader_parameter/angle = 45.0
+shader_parameter/keep_saturation = 0.0
+shader_parameter/keep_luminance = 0.0
+shader_parameter/color_start = Color(0.51, 0.51, 0.51, 1)
+shader_parameter/start_pos = 0.0
+shader_parameter/color_mid = Color(1, 1, 1, 1)
+shader_parameter/mid_pos = 0.5
+shader_parameter/color_end = Color(0.3, 0.3, 0.3, 1)
+shader_parameter/end_pos = 1.0
+shader_parameter/midpos_enabled = false
+shader_parameter/range_start = 0.0
+shader_parameter/range_end = 1.0
+shader_parameter/range_softedge = 0.1
+
+[node name="Building" type="Sprite2D" node_paths=PackedStringArray("garrison")]
+material = SubResource("ShaderMaterial_3rj4w")
+scale = Vector2(0.8, 0.8)
+texture = ExtResource("1_6d11a")
+vframes = 7
+script = ExtResource("2_3lfui")
+garrison = NodePath("Garrison")
+
+[node name="Garrison" type="Label" parent="."]
+visible = false
+custom_minimum_size = Vector2(28, 28)
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -46.0
+offset_top = -46.0
+offset_right = -18.0
+offset_bottom = -18.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("2_ji8lo")
+theme_override_font_sizes/font_size = 20
+text = "0"
+horizontal_alignment = 1
+vertical_alignment = 1

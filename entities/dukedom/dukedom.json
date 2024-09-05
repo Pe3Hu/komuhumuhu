@@ -1,0 +1,173 @@
+[
+	{
+		"index": 1,
+		"garrison": 3,
+		"buildings": "fort"
+	},
+	{
+		"index": 2,
+		"garrison": 3,
+		"buildings": "fort,farm"
+	},
+	{
+		"index": 3,
+		"buildings": "road"
+	},
+	{
+		"index": 4,
+		"buildings": "farm"
+	},
+	{
+		"index": 5,
+		"buildings": "fort,town"
+	},
+	{
+		"index": 6,
+		"buildings": "farm"
+	},
+	{
+		"index": 7,
+		"garrison": 2,
+		"buildings": "fort"
+	},
+	{
+		"index": 8,
+		"buildings": "farm"
+	},
+	{
+		"index": 9,
+		"buildings": "farm"
+	},
+	{
+		"index": 10,
+		"buildings": "town"
+	},
+	{
+		"index": 11,
+		"garrison": 2,
+		"buildings": "fort"
+	},
+	{
+		"index": 12,
+		"buildings": "road"
+	},
+	{
+		"index": 13,
+		"garrison": 2,
+		"buildings": "fort"
+	},
+	{
+		"index": 14,
+		"buildings": "town"
+	},
+	{
+		"index": 15,
+		"buildings": "farm"
+	},
+	{
+		"index": 16,
+		"buildings": "town"
+	},
+	{
+		"index": 17,
+		"buildings": "road"
+	},
+	{
+		"index": 18,
+		"buildings": "fort"
+	},
+	{
+		"index": 19,
+		"buildings": "town"
+	},
+	{
+		"index": 20,
+		"buildings": "fort"
+	},
+	{
+		"index": 21,
+		"buildings": "farm"
+	},
+	{
+		"index": 22,
+		"buildings": "town"
+	},
+	{
+		"index": 23,
+		"buildings": "road"
+	},
+	{
+		"index": 24,
+		"garrison": 3,
+		"buildings": "fort"
+	},
+	{
+		"index": 25,
+		"garrison": 2,
+		"buildings": "fort"
+	},
+	{
+		"index": 26,
+		"buildings": "road"
+	},
+	{
+		"index": 27,
+		"buildings": "farm"
+	},
+	{
+		"index": 28,
+		"buildings": "fort"
+	},
+	{
+		"index": 29,
+		"buildings": "town"
+	},
+	{
+		"index": 30,
+		"garrison": 2,
+		"buildings": "road"
+	},
+	{
+		"index": 31,
+		"buildings": "fort"
+	},
+	{
+		"index": 32,
+		"buildings": "farm"
+	},
+	{
+		"index": 33,
+		"buildings": "farm"
+	},
+	{
+		"index": 34,
+		"buildings": "town"
+	},
+	{
+		"index": 35,
+		"garrison": 2,
+		"buildings": "town"
+	},
+	{
+		"index": 36,
+		"garrison": 2,
+		"buildings": "fort"
+	},
+	{
+		"index": 37,
+		"garrison": 2,
+		"buildings": "town,farm"
+	},
+	{
+		"index": 38,
+		"buildings": "town,farm"
+	},
+	{
+		"index": 39,
+		"buildings": "town"
+	},
+	{
+		"index": 40,
+		"buildings": "farm"
+	}
+]

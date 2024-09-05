@@ -1,0 +1,21 @@
+[gd_scene load_steps=3 format=3 uid="uid://chpwwdy6wos0c"]
+
+[ext_resource type="Script" path="res://entities/dukedom/dukedom.gd" id="1_hpcqf"]
+[ext_resource type="PackedScene" uid="uid://bv2iyxfvuuk8w" path="res://entities/building/building.tscn" id="2_c5j1m"]
+
+[node name="Dukedom" type="Line2D" node_paths=PackedStringArray("area", "collision", "building")]
+width = 4.0
+default_color = Color(0.299547, 0.299547, 0.299547, 1)
+script = ExtResource("1_hpcqf")
+area = NodePath("Area2D")
+collision = NodePath("Area2D/CollisionPolygon2D")
+building = NodePath("Building")
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="Area2D"]
+
+[node name="Building" parent="." node_paths=PackedStringArray("dukedom") instance=ExtResource("2_c5j1m")]
+dukedom = NodePath("..")
+
+[connection signal="input_event" from="Area2D" to="." method="_on_area_2d_input_event"]

@@ -1,0 +1,47 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1725506738
+::res://assets/::1725495167
+default_env.tres::Environment::-1::1690116911::0::1::::<><>::
+icon.png::CompressedTexture2D::2432420761471245026::1690116911::1724364032::1::::<><>::
+icon.svg::CompressedTexture2D::9162371498834860976::1690116911::1724364032::1::::<><>::
+README.md::TextFile::-1::1690795285::0::1::::<><>::
+::res://assets/fonts/::1725494769
+::res://assets/fonts/digital/::1725494769
+Inter-Black.ttf::FontFile::2023361649885781834::1694723238::1724364038::1::::<><>::
+::res://assets/fonts/letter/::1725494769
+Roboto-Bold.ttf::FontFile::7183128479095054959::1663817230::1724364038::1::::<><>::
+Roboto-Light.ttf::FontFile::2934334192827154238::1663817230::1724364038::1::::<><>::
+Walter-Bold.ttf::FontFile::6104160909452173604::1570526552::1724364038::1::::<><>::
+::res://entities/::1725506738
+::res://entities/building/::1725506624
+building.gd::GDScript::-1::1725503530::0::1::::Building<>Sprite2D<>::
+building.png::CompressedTexture2D::40618635581465261::1725506383::1725506605::1::::<><>::
+building.tscn::PackedScene::3916654411189989088::1725506624::0::1::::<><>::res://shaders/gradient effects.gdshader<>uid://tw8oltxvsfd::::res://entities/building/building.png<>res://entities/building/building.gd<>uid://33eqagvh85us::::res://assets/fonts/digital/Inter-Black.ttf
+::res://entities/dukedom/::1725506705
+dukedom.gd::GDScript::-1::1725503640::0::1::::Dukedom<>Line2D<>::
+dukedom.json::JSON::-1::1725506670::0::1::::<><>::
+dukedom.tscn::PackedScene::5296504196553921228::1725506705::0::1::::<><>::res://entities/dukedom/dukedom.gd<>uid://bv2iyxfvuuk8w::::res://entities/building/building.tscn
+dukedom_resource.gd::GDScript::-1::1725502271::0::1::::DukedomResource<>Resource<>::
+::res://entities/empty/::1725495498
+empty.tscn::PackedScene::5291738769131499439::1724362385::0::1::::<><>::
+empty_resource.gd::GDScript::-1::1724016672::0::1::::<>Resource<>::
+::res://entities/kingdom/::1725506736
+earldom_resource.gd::GDScript::-1::1725502271::0::1::::EarldomResource<>Resource<>::
+kindom 8.png::CompressedTexture2D::8684215297020624244::1725494647::1725506738::1::::<><>::
+kindom 16.png::CompressedTexture2D::3812244815760047830::1725498563::1725506738::1::::<><>::
+kindom 32.png::CompressedTexture2D::2155329002501560443::1725498582::1725506738::1::::<><>::
+kingdom.json::JSON::-1::1725500663::0::1::::<><>::
+kingdom_resource.gd::GDScript::-1::1725496891::0::1::::KingdomResource<>Resource<>::
+::res://entities/planet/::1725506738
+planet 8.tres::TileSet::8808348787540149131::1725506738::0::1::::<><>::uid://dvyx00jrdoaoy::::res://entities/kingdom/kindom 8.png
+planet 16.tres::TileSet::7933669324337414432::1725506738::0::1::::<><>::uid://bukxd6dph5v87::::res://entities/kingdom/kindom 16.png
+planet.gd::GDScript::-1::1725500883::0::1::::Planet<>PanelContainer<>::
+planet.tscn::PackedScene::3291355514185259789::1725506738::0::1::::<><>::res://entities/planet/planet.gd<>uid://5yb7oteeea4b::::res://entities/kingdom/kindom 32.png
+planet_resource.gd::GDScript::-1::1725502431::0::1::::PlanetResource<>Resource<>::
+::res://entities/world/::1725504309
+world.gd::GDScript::-1::1724362518::0::1::::World<>Node<>::
+world.tscn::PackedScene::8246655032211948728::1725504309::0::1::::<><>::res://entities/world/world.gd<>uid://bm5me58j23h86::::res://entities/planet/planet.tscn
+::res://script/::1725499485
+Global.gd::GDScript::-1::1725499485::0::1::::<>Node<>::
+::res://shaders/::1725506738
+gradient effects.gdshader::Shader::-1::1725506738::0::1::::<><>::

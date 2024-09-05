@@ -1,0 +1,977 @@
+[
+ {
+  "dukedom": 1,
+  "title": "bear",
+  "earldom": 24
+ },
+ {
+  "dukedom": 1,
+  "title": "bear",
+  "earldom": 25
+ },
+ {
+  "dukedom": 1,
+  "title": "bear",
+  "earldom": 26
+ },
+ {
+  "dukedom": 1,
+  "title": "bear",
+  "earldom": 43
+ },
+ {
+  "dukedom": 1,
+  "title": "bear",
+  "earldom": 44
+ },
+ {
+  "dukedom": 1,
+  "title": "bear",
+  "earldom": 45
+ },
+ {
+  "dukedom": 2,
+  "title": "bear",
+  "earldom": 46
+ },
+ {
+  "dukedom": 2,
+  "title": "bear",
+  "earldom": 47
+ },
+ {
+  "dukedom": 2,
+  "title": "bear",
+  "earldom": 48
+ },
+ {
+  "dukedom": 2,
+  "title": "bear",
+  "earldom": 65
+ },
+ {
+  "dukedom": 2,
+  "title": "bear",
+  "earldom": 66
+ },
+ {
+  "dukedom": 2,
+  "title": "bear",
+  "earldom": 67
+ },
+ {
+  "dukedom": 3,
+  "title": "bear",
+  "earldom": 10
+ },
+ {
+  "dukedom": 3,
+  "title": "bear",
+  "earldom": 11
+ },
+ {
+  "dukedom": 3,
+  "title": "bear",
+  "earldom": 29
+ },
+ {
+  "dukedom": 3,
+  "title": "bear",
+  "earldom": 30
+ },
+ {
+  "dukedom": 4,
+  "title": "bear",
+  "earldom": 33
+ },
+ {
+  "dukedom": 4,
+  "title": "bear",
+  "earldom": 34
+ },
+ {
+  "dukedom": 4,
+  "title": "bear",
+  "earldom": 52
+ },
+ {
+  "dukedom": 4,
+  "title": "bear",
+  "earldom": 53
+ },
+ {
+  "dukedom": 5,
+  "title": "bear",
+  "earldom": 35
+ },
+ {
+  "dukedom": 5,
+  "title": "bear",
+  "earldom": 36
+ },
+ {
+  "dukedom": 5,
+  "title": "bear",
+  "earldom": 54
+ },
+ {
+  "dukedom": 5,
+  "title": "bear",
+  "earldom": 55
+ },
+ {
+  "dukedom": 6,
+  "title": "eagle",
+  "earldom": 150
+ },
+ {
+  "dukedom": 6,
+  "title": "eagle",
+  "earldom": 151
+ },
+ {
+  "dukedom": 6,
+  "title": "eagle",
+  "earldom": 169
+ },
+ {
+  "dukedom": 6,
+  "title": "eagle",
+  "earldom": 170
+ },
+ {
+  "dukedom": 7,
+  "title": "eagle",
+  "earldom": 187
+ },
+ {
+  "dukedom": 7,
+  "title": "eagle",
+  "earldom": 188
+ },
+ {
+  "dukedom": 7,
+  "title": "eagle",
+  "earldom": 206
+ },
+ {
+  "dukedom": 7,
+  "title": "eagle",
+  "earldom": 207
+ },
+ {
+  "dukedom": 7,
+  "title": "eagle",
+  "earldom": 225
+ },
+ {
+  "dukedom": 7,
+  "title": "eagle",
+  "earldom": 226
+ },
+ {
+  "dukedom": 8,
+  "title": "elephant",
+  "earldom": 245
+ },
+ {
+  "dukedom": 8,
+  "title": "elephant",
+  "earldom": 246
+ },
+ {
+  "dukedom": 8,
+  "title": "elephant",
+  "earldom": 264
+ },
+ {
+  "dukedom": 8,
+  "title": "elephant",
+  "earldom": 265
+ },
+ {
+  "dukedom": 8,
+  "title": "elephant",
+  "earldom": 283
+ },
+ {
+  "dukedom": 8,
+  "title": "elephant",
+  "earldom": 284
+ },
+ {
+  "dukedom": 9,
+  "title": "elephant",
+  "earldom": 301
+ },
+ {
+  "dukedom": 9,
+  "title": "elephant",
+  "earldom": 302
+ },
+ {
+  "dukedom": 9,
+  "title": "elephant",
+  "earldom": 320
+ },
+ {
+  "dukedom": 9,
+  "title": "elephant",
+  "earldom": 321
+ },
+ {
+  "dukedom": 10,
+  "title": "elephant",
+  "earldom": 298
+ },
+ {
+  "dukedom": 10,
+  "title": "elephant",
+  "earldom": 299
+ },
+ {
+  "dukedom": 10,
+  "title": "elephant",
+  "earldom": 300
+ },
+ {
+  "dukedom": 10,
+  "title": "elephant",
+  "earldom": 317
+ },
+ {
+  "dukedom": 10,
+  "title": "elephant",
+  "earldom": 318
+ },
+ {
+  "dukedom": 10,
+  "title": "elephant",
+  "earldom": 319
+ },
+ {
+  "dukedom": 11,
+  "title": "elephant",
+  "earldom": 258
+ },
+ {
+  "dukedom": 11,
+  "title": "elephant",
+  "earldom": 259
+ },
+ {
+  "dukedom": 11,
+  "title": "elephant",
+  "earldom": 277
+ },
+ {
+  "dukedom": 11,
+  "title": "elephant",
+  "earldom": 278
+ },
+ {
+  "dukedom": 11,
+  "title": "elephant",
+  "earldom": 296
+ },
+ {
+  "dukedom": 11,
+  "title": "elephant",
+  "earldom": 297
+ },
+ {
+  "dukedom": 12,
+  "title": "elephant",
+  "earldom": 275
+ },
+ {
+  "dukedom": 12,
+  "title": "elephant",
+  "earldom": 276
+ },
+ {
+  "dukedom": 12,
+  "title": "elephant",
+  "earldom": 294
+ },
+ {
+  "dukedom": 12,
+  "title": "elephant",
+  "earldom": 295
+ },
+ {
+  "dukedom": 13,
+  "title": "elephant",
+  "earldom": 273
+ },
+ {
+  "dukedom": 13,
+  "title": "elephant",
+  "earldom": 274
+ },
+ {
+  "dukedom": 13,
+  "title": "elephant",
+  "earldom": 292
+ },
+ {
+  "dukedom": 13,
+  "title": "elephant",
+  "earldom": 293
+ },
+ {
+  "dukedom": 14,
+  "title": "horse",
+  "earldom": 252
+ },
+ {
+  "dukedom": 14,
+  "title": "horse",
+  "earldom": 253
+ },
+ {
+  "dukedom": 14,
+  "title": "horse",
+  "earldom": 271
+ },
+ {
+  "dukedom": 14,
+  "title": "horse",
+  "earldom": 272
+ },
+ {
+  "dukedom": 15,
+  "title": "horse",
+  "earldom": 231
+ },
+ {
+  "dukedom": 15,
+  "title": "horse",
+  "earldom": 232
+ },
+ {
+  "dukedom": 15,
+  "title": "horse",
+  "earldom": 250
+ },
+ {
+  "dukedom": 15,
+  "title": "horse",
+  "earldom": 251
+ },
+ {
+  "dukedom": 16,
+  "title": "horse",
+  "earldom": 193
+ },
+ {
+  "dukedom": 16,
+  "title": "horse",
+  "earldom": 194
+ },
+ {
+  "dukedom": 16,
+  "title": "horse",
+  "earldom": 212
+ },
+ {
+  "dukedom": 16,
+  "title": "horse",
+  "earldom": 213
+ },
+ {
+  "dukedom": 17,
+  "title": "horse",
+  "earldom": 155
+ },
+ {
+  "dukedom": 17,
+  "title": "horse",
+  "earldom": 156
+ },
+ {
+  "dukedom": 17,
+  "title": "horse",
+  "earldom": 174
+ },
+ {
+  "dukedom": 17,
+  "title": "horse",
+  "earldom": 175
+ },
+ {
+  "dukedom": 18,
+  "title": "horse",
+  "earldom": 117
+ },
+ {
+  "dukedom": 18,
+  "title": "horse",
+  "earldom": 118
+ },
+ {
+  "dukedom": 18,
+  "title": "horse",
+  "earldom": 136
+ },
+ {
+  "dukedom": 18,
+  "title": "horse",
+  "earldom": 137
+ },
+ {
+  "dukedom": 19,
+  "title": "horse",
+  "earldom": 115
+ },
+ {
+  "dukedom": 19,
+  "title": "horse",
+  "earldom": 116
+ },
+ {
+  "dukedom": 19,
+  "title": "horse",
+  "earldom": 134
+ },
+ {
+  "dukedom": 19,
+  "title": "horse",
+  "earldom": 135
+ },
+ {
+  "dukedom": 20,
+  "title": "horse",
+  "earldom": 77
+ },
+ {
+  "dukedom": 20,
+  "title": "horse",
+  "earldom": 78
+ },
+ {
+  "dukedom": 20,
+  "title": "horse",
+  "earldom": 79
+ },
+ {
+  "dukedom": 20,
+  "title": "horse",
+  "earldom": 96
+ },
+ {
+  "dukedom": 20,
+  "title": "horse",
+  "earldom": 97
+ },
+ {
+  "dukedom": 20,
+  "title": "horse",
+  "earldom": 98
+ },
+ {
+  "dukedom": 21,
+  "title": "horse",
+  "earldom": 38
+ },
+ {
+  "dukedom": 21,
+  "title": "horse",
+  "earldom": 39
+ },
+ {
+  "dukedom": 21,
+  "title": "horse",
+  "earldom": 57
+ },
+ {
+  "dukedom": 21,
+  "title": "horse",
+  "earldom": 58
+ },
+ {
+  "dukedom": 22,
+  "title": "horse",
+  "earldom": 40
+ },
+ {
+  "dukedom": 22,
+  "title": "horse",
+  "earldom": 41
+ },
+ {
+  "dukedom": 22,
+  "title": "horse",
+  "earldom": 59
+ },
+ {
+  "dukedom": 22,
+  "title": "horse",
+  "earldom": 60
+ },
+ {
+  "dukedom": 23,
+  "title": "horse",
+  "earldom": 61
+ },
+ {
+  "dukedom": 23,
+  "title": "horse",
+  "earldom": 62
+ },
+ {
+  "dukedom": 23,
+  "title": "horse",
+  "earldom": 80
+ },
+ {
+  "dukedom": 23,
+  "title": "horse",
+  "earldom": 81
+ },
+ {
+  "dukedom": 23,
+  "title": "horse",
+  "earldom": 99
+ },
+ {
+  "dukedom": 23,
+  "title": "horse",
+  "earldom": 100
+ },
+ {
+  "dukedom": 24,
+  "title": "bear",
+  "earldom": 49
+ },
+ {
+  "dukedom": 24,
+  "title": "bear",
+  "earldom": 50
+ },
+ {
+  "dukedom": 24,
+  "title": "bear",
+  "earldom": 51
+ },
+ {
+  "dukedom": 24,
+  "title": "bear",
+  "earldom": 68
+ },
+ {
+  "dukedom": 24,
+  "title": "bear",
+  "earldom": 69
+ },
+ {
+  "dukedom": 24,
+  "title": "bear",
+  "earldom": 70
+ },
+ {
+  "dukedom": 25,
+  "title": "eagle",
+  "earldom": 89
+ },
+ {
+  "dukedom": 25,
+  "title": "eagle",
+  "earldom": 90
+ },
+ {
+  "dukedom": 25,
+  "title": "eagle",
+  "earldom": 91
+ },
+ {
+  "dukedom": 25,
+  "title": "eagle",
+  "earldom": 108
+ },
+ {
+  "dukedom": 25,
+  "title": "eagle",
+  "earldom": 109
+ },
+ {
+  "dukedom": 25,
+  "title": "eagle",
+  "earldom": 110
+ },
+ {
+  "dukedom": 26,
+  "title": "eagle",
+  "earldom": 129
+ },
+ {
+  "dukedom": 26,
+  "title": "eagle",
+  "earldom": 130
+ },
+ {
+  "dukedom": 26,
+  "title": "eagle",
+  "earldom": 148
+ },
+ {
+  "dukedom": 26,
+  "title": "eagle",
+  "earldom": 149
+ },
+ {
+  "dukedom": 26,
+  "title": "eagle",
+  "earldom": 167
+ },
+ {
+  "dukedom": 26,
+  "title": "eagle",
+  "earldom": 168
+ },
+ {
+  "dukedom": 27,
+  "title": "eagle",
+  "earldom": 185
+ },
+ {
+  "dukedom": 27,
+  "title": "eagle",
+  "earldom": 186
+ },
+ {
+  "dukedom": 27,
+  "title": "eagle",
+  "earldom": 204
+ },
+ {
+  "dukedom": 27,
+  "title": "eagle",
+  "earldom": 205
+ },
+ {
+  "dukedom": 28,
+  "title": "elephant",
+  "earldom": 243
+ },
+ {
+  "dukedom": 28,
+  "title": "elephant",
+  "earldom": 244
+ },
+ {
+  "dukedom": 28,
+  "title": "elephant",
+  "earldom": 262
+ },
+ {
+  "dukedom": 28,
+  "title": "elephant",
+  "earldom": 263
+ },
+ {
+  "dukedom": 28,
+  "title": "elephant",
+  "earldom": 281
+ },
+ {
+  "dukedom": 28,
+  "title": "elephant",
+  "earldom": 282
+ },
+ {
+  "dukedom": 29,
+  "title": "elephant",
+  "earldom": 260
+ },
+ {
+  "dukedom": 29,
+  "title": "elephant",
+  "earldom": 261
+ },
+ {
+  "dukedom": 29,
+  "title": "elephant",
+  "earldom": 279
+ },
+ {
+  "dukedom": 29,
+  "title": "elephant",
+  "earldom": 280
+ },
+ {
+  "dukedom": 30,
+  "title": "lion",
+  "earldom": 220
+ },
+ {
+  "dukedom": 30,
+  "title": "lion",
+  "earldom": 221
+ },
+ {
+  "dukedom": 30,
+  "title": "lion",
+  "earldom": 239
+ },
+ {
+  "dukedom": 30,
+  "title": "lion",
+  "earldom": 240
+ },
+ {
+  "dukedom": 31,
+  "title": "lion",
+  "earldom": 218
+ },
+ {
+  "dukedom": 31,
+  "title": "lion",
+  "earldom": 219
+ },
+ {
+  "dukedom": 31,
+  "title": "lion",
+  "earldom": 237
+ },
+ {
+  "dukedom": 31,
+  "title": "lion",
+  "earldom": 238
+ },
+ {
+  "dukedom": 32,
+  "title": "lion",
+  "earldom": 216
+ },
+ {
+  "dukedom": 32,
+  "title": "lion",
+  "earldom": 217
+ },
+ {
+  "dukedom": 32,
+  "title": "lion",
+  "earldom": 235
+ },
+ {
+  "dukedom": 32,
+  "title": "lion",
+  "earldom": 236
+ },
+ {
+  "dukedom": 33,
+  "title": "lion",
+  "earldom": 214
+ },
+ {
+  "dukedom": 33,
+  "title": "lion",
+  "earldom": 215
+ },
+ {
+  "dukedom": 33,
+  "title": "lion",
+  "earldom": 233
+ },
+ {
+  "dukedom": 33,
+  "title": "lion",
+  "earldom": 234
+ },
+ {
+  "dukedom": 34,
+  "title": "lion",
+  "earldom": 176
+ },
+ {
+  "dukedom": 34,
+  "title": "lion",
+  "earldom": 177
+ },
+ {
+  "dukedom": 34,
+  "title": "lion",
+  "earldom": 195
+ },
+ {
+  "dukedom": 34,
+  "title": "lion",
+  "earldom": 196
+ },
+ {
+  "dukedom": 35,
+  "title": "lion",
+  "earldom": 119
+ },
+ {
+  "dukedom": 35,
+  "title": "lion",
+  "earldom": 120
+ },
+ {
+  "dukedom": 35,
+  "title": "lion",
+  "earldom": 121
+ },
+ {
+  "dukedom": 35,
+  "title": "lion",
+  "earldom": 138
+ },
+ {
+  "dukedom": 35,
+  "title": "lion",
+  "earldom": 139
+ },
+ {
+  "dukedom": 35,
+  "title": "lion",
+  "earldom": 140
+ },
+ {
+  "dukedom": 35,
+  "title": "lion",
+  "earldom": 157
+ },
+ {
+  "dukedom": 35,
+  "title": "lion",
+  "earldom": 158
+ },
+ {
+  "dukedom": 35,
+  "title": "lion",
+  "earldom": 159
+ },
+ {
+  "dukedom": 36,
+  "title": "lion",
+  "earldom": 82
+ },
+ {
+  "dukedom": 36,
+  "title": "lion",
+  "earldom": 83
+ },
+ {
+  "dukedom": 36,
+  "title": "lion",
+  "earldom": 84
+ },
+ {
+  "dukedom": 36,
+  "title": "lion",
+  "earldom": 101
+ },
+ {
+  "dukedom": 36,
+  "title": "lion",
+  "earldom": 102
+ },
+ {
+  "dukedom": 36,
+  "title": "lion",
+  "earldom": 103
+ },
+ {
+  "dukedom": 37,
+  "title": "eagle",
+  "earldom": 105
+ },
+ {
+  "dukedom": 37,
+  "title": "eagle",
+  "earldom": 106
+ },
+ {
+  "dukedom": 37,
+  "title": "eagle",
+  "earldom": 107
+ },
+ {
+  "dukedom": 37,
+  "title": "eagle",
+  "earldom": 124
+ },
+ {
+  "dukedom": 37,
+  "title": "eagle",
+  "earldom": 125
+ },
+ {
+  "dukedom": 37,
+  "title": "eagle",
+  "earldom": 126
+ },
+ {
+  "dukedom": 38,
+  "title": "eagle",
+  "earldom": 164
+ },
+ {
+  "dukedom": 38,
+  "title": "eagle",
+  "earldom": 165
+ },
+ {
+  "dukedom": 38,
+  "title": "eagle",
+  "earldom": 183
+ },
+ {
+  "dukedom": 38,
+  "title": "eagle",
+  "earldom": 184
+ },
+ {
+  "dukedom": 39,
+  "title": "lion",
+  "earldom": 178
+ },
+ {
+  "dukedom": 39,
+  "title": "lion",
+  "earldom": 179
+ },
+ {
+  "dukedom": 39,
+  "title": "lion",
+  "earldom": 180
+ },
+ {
+  "dukedom": 39,
+  "title": "lion",
+  "earldom": 197
+ },
+ {
+  "dukedom": 39,
+  "title": "lion",
+  "earldom": 198
+ },
+ {
+  "dukedom": 39,
+  "title": "lion",
+  "earldom": 199
+ },
+ {
+  "dukedom": 40,
+  "title": "lion",
+  "earldom": 122
+ },
+ {
+  "dukedom": 40,
+  "title": "lion",
+  "earldom": 123
+ },
+ {
+  "dukedom": 40,
+  "title": "lion",
+  "earldom": 141
+ },
+ {
+  "dukedom": 40,
+  "title": "lion",
+  "earldom": 142
+ }
+]

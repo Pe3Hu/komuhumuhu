@@ -1,0 +1,55 @@
+[gd_scene load_steps=6 format=3 uid="uid://bm5me58j23h86"]
+
+[ext_resource type="Script" path="res://entities/planet/planet.gd" id="1_piy68"]
+[ext_resource type="Texture2D" uid="uid://5yb7oteeea4b" path="res://entities/kingdom/kindom 32.png" id="2_mklte"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_0uytx"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_x3jlf"]
+texture = ExtResource("2_mklte")
+texture_region_size = Vector2i(32, 32)
+0:0/0 = 0
+0:0/0/terrain_set = 0
+1:0/0 = 0
+1:0/0/terrain_set = 0
+2:0/0 = 0
+2:0/0/terrain_set = 0
+3:0/0 = 0
+3:0/0/terrain_set = 0
+4:0/0 = 0
+4:0/0/terrain_set = 0
+
+[sub_resource type="TileSet" id="TileSet_tjn6s"]
+tile_size = Vector2i(32, 32)
+terrain_set_0/mode = 0
+terrain_set_0/terrain_0/name = "Terrain 0"
+terrain_set_0/terrain_0/color = Color(0.5, 0.34375, 0.25, 1)
+terrain_set_0/terrain_1/name = "Terrain 1"
+terrain_set_0/terrain_1/color = Color(0.5, 0.4375, 0.25, 1)
+terrain_set_0/terrain_2/name = "Terrain 2"
+terrain_set_0/terrain_2/color = Color(0.46875, 0.5, 0.25, 1)
+terrain_set_0/terrain_3/name = "Terrain 3"
+terrain_set_0/terrain_3/color = Color(0.375, 0.5, 0.25, 1)
+terrain_set_0/terrain_4/name = "Terrain 4"
+terrain_set_0/terrain_4/color = Color(0.28125, 0.5, 0.25, 1)
+sources/0 = SubResource("TileSetAtlasSource_x3jlf")
+
+[node name="Planet" type="PanelContainer" node_paths=PackedStringArray("fiefdoms", "dukedoms")]
+custom_minimum_size = Vector2(80, 80)
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 1
+theme_override_styles/panel = SubResource("StyleBoxFlat_0uytx")
+script = ExtResource("1_piy68")
+fiefdoms = NodePath("Fiefdoms")
+dukedoms = NodePath("Dukedoms")
+
+[node name="Fiefdoms" type="TileMapLayer" parent="."]
+tile_set = SubResource("TileSet_tjn6s")
+
+[node name="Dukedoms" type="Node2D" parent="."]
